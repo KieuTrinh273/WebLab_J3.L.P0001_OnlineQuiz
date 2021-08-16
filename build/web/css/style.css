@@ -1,0 +1,161 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2021, 9:55:32 AMf
+    Author     : DELL
+*/
+body{
+    background-image: url(../images/bg.jpg);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.container{
+    width: 700px;
+    margin: 2em auto;
+}
+.main{
+    background-color: white;
+    height: auto;
+}
+.content{
+    padding: 55px 95px 130px 48px;
+    color: #5d7a86;
+}
+
+.content input .content textarea{
+    color: black;
+}
+.content button{
+    font-weight: bold;
+}
+.title{
+    color: #040588;
+    font-weight: 700;
+}
+.top-content{
+    padding: 1px;
+}
+.bottom-content{
+    margin-top: 50px;
+    font-size: 15px;
+}
+.bottom-content a{
+    text-decoration: none; 
+}
+td{
+    vertical-align: top;
+}
+table{
+    width: 100%;
+}
+.tdlabel{
+    width: 15%;
+}
+textarea{
+    width: 100%;
+}
+.content span{
+    color:#1717ff;
+}
+
+
+.th{
+    color: #1717ff;
+    text-align: left;
+}
+.each-row{
+    width: 100%;
+    display: flex;
+    padding: 5px 0;
+}
+.each-row .left{
+    width: 60%;
+    padding-right: 10%;
+}
+.each-row .right{
+    width: 20%;
+    vertical-align: middle;
+    float: right;
+}
+#delete{
+    width: 8%;
+}
+#delete input{
+    border: none;
+    background-color: inherit;
+    color:#657a86;;
+    font-weight: bold;
+}
+#delete input:hover{
+    color: red;
+    cursor: pointer;
+}
+.error-msg{
+    color: red;
+}
+
+.page{
+    margin-top: 30px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+.page a{
+    color: black;
+    text-decoration: none;
+    padding: 2px;
+    border: 1px solid black;
+}
+.clicked{
+    font-weight: bold;
+    background-color: yellow;
+    pointer-events: none;
+}
+#inputNumber{
+    width: 70px;
+    margin: 5px 0;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.button input{
+    color: black;
+    font-weight: bold;
+}
+.label{
+    width: 88px;
+}
+.register .left{
+    width: 136px;
+}
+.do-quiz table ,.question-infor{
+    width: 85%;
+}
+.do-quiz .left{
+    width: 60%;
+}
+.do-quiz .middle{
+    width: 40%;
+}
+.do-quiz .right{
+    margin-left: 85%;
+}
+.do-quiz a{
+    background-color: #efefef;
+    color: black;
+    font-size: 14px;
+    border: 1px solid #797979;
+    padding: 1px 6px;
+}
+form{
+    margin-bottom: 10px;
+}
+#timer{
+    color: red;
+}
+a:visited{
+    color: #657a86;
+}

@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2021, 9:56:08 AM
+    Author     : DELL
+*/
+.preheader{
+    background-image: url(../images/top_box.gif);
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 19px;
+}
+.header-container{
+    background-color: white;
+}
+.top-nav{
+    background-image: url(../images/menu_bg.gif);
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    width: 663px;
+    height: 51px;
+}
+.nav-inner{
+    margin: 0 auto;
+    font-size: 16px;
+    height: 51px;
+    padding-left: 68px;
+    padding-right: 68px;
+}
+.nav-inner ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+/*    display: flex;
+    justify-content: space-between;*/
+    width: 100%;
+}
+.nav-inner li{
+    width: 22%;
+    line-height: 22px;
+    padding: 0 0 0 1px;
+    float: left;
+    display: inline-block;
+}
+.nav-inner li:first-child, .nav-inner li:nth-child(5){
+    width: 15%;
+}
+.nav-inner li:nth-child(4){
+    width: 25%;
+}
+.nav-inner li:nth-child(5){
+    float: right
+}
+.nav-inner li a{
+    color: #605448;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0;
+    line-height: 52px;
+}

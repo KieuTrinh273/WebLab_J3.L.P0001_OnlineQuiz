@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/src/java/controller/DoQuizServlet.java</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/src/java/controller/TakeQuizServlet.java</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/web/takeQuiz.jsp</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/web/login.jsp</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/web/META-INF/context.xml</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/src/java/dal/test.java</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/web/doQuiz.jsp</file>
+            <file>file:/D:/LearnJavaEE/WebLab_J3.L.P0001_OnlineQuiz/src/java/controller/ShowResultServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
