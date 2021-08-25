@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Context path="/Onlinequiz">
-    <Environment name="myConnectionURL" value="jdbc:sqlserver://localhost:1433;databaseName= LabWeb_Onlinequiz"  type="java.lang.String" />
-    <Environment name="username" type="java.lang.String" value="sa1"/>
-    <Environment name="password" type="java.lang.String" value="123"/>
-    <Environment name="image" type="java.lang.String" value="images/"/>
-    <Environment name="timePerQ" type="java.lang.String" value="3"/>
-</Context>
